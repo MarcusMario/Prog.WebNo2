@@ -1,4 +1,5 @@
 # Programación Web 
+---
 
 Este repositorio contiene todas las prácticas, tareas y el proyecto final realizados en **Programacion Web 2**.
 
@@ -22,7 +23,6 @@ Las carpetas están organizadas por fecha y tema de clase. Aquí puedes encontra
 
 Cada carpeta contiene ejemplos claros y comentados para aprender paso a paso los fundamentos del desarrollo web del lado del cliente y servidor.
 
----
 
 ##  Tecnologías vistas en clase
 
@@ -36,7 +36,6 @@ Cada carpeta contiene ejemplos claros y comentados para aprender paso a paso los
 | Express.js | Framework web para Node.js |
 
 ---
-
 
 ##  Recomendaciones
 
