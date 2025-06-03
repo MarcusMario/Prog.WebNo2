@@ -1,7 +1,8 @@
-# Programación Web 
----
+# Programación Web 2
 
 Este repositorio contiene todas las prácticas, tareas y el proyecto final realizados en **Programacion Web 2**.
+
+---
 
 ##  Tecnologías vistas en clase
 
